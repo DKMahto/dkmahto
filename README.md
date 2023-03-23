@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Dinesh
+### Hi there 👋 I'm DK Mahto
 - 🔭 I’m currently working on data driven learning models for active distrubution network
 - 🌱 I’m currently learning Deep learning on Graph 
 - 👯 I’m looking to collaborate on dynamic graph based learning models  
